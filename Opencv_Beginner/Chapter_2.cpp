@@ -40,5 +40,4 @@ void main() {
 	waitKey(0);
 
 }
-
 */
