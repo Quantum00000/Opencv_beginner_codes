@@ -39,5 +39,11 @@
     <ClCompile Include="Chapter_8.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Self_practice_webcam_faceDetection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="praject_1_colorpaintingonscreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
