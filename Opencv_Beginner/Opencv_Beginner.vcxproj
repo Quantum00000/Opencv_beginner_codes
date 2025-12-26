@@ -140,7 +140,9 @@
     <ClCompile Include="Chapter_6.cpp" />
     <ClCompile Include="Chapter_7.cpp" />
     <ClCompile Include="Chapter_8.cpp" />
+    <ClCompile Include="Document_scanner_realtime.cpp" />
     <ClCompile Include="praject_1_colorpaintingonscreen.cpp" />
+    <ClCompile Include="project_2_DocumentScanner.cpp" />
     <ClCompile Include="Self_practice_webcam_faceDetection.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

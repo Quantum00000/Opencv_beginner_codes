@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-
 /*
 
 ///////////////////// Face Detection  ///////////////////
-=======
-/////////////////// Face Detection ///////////////////
->>>>>>> d537ef3b27cf6332ad7b21ad3ba5aecf736957e6
 
 #include <opencv2/imgcodecs.hpp>
 #include <opencv2/highgui.hpp>
